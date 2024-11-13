@@ -5,5 +5,5 @@
 - 🤝 Estou aberto a colaborar em projetos reais e soluções inovadoras
 - 🧑‍💻 Tenho experiência com JavaScript, TypeScript, Node.js, Git, testes automatizados com Jest e 
 no desenvolvimento de API RESTful com Express e Fastify
-- 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/felipeomelodev)
+- 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/felipeomelo/)
 - 🎾 Curiosidade: Sou ex-jogador de tênis amador e adoro resolver desafios, seja no código ou em esportes
