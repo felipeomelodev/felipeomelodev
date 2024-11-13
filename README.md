@@ -6,4 +6,4 @@
 - 🧑‍💻 Tenho experiência com JavaScript, TypeScript, Node.js, Git, testes automatizados com Jest e 
 no desenvolvimento de API RESTful com Express e Fastify
 - 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/felipeomelo/)
-- 🎾 Curiosidade: Sou ex-jogador de tênis amador, apaixonado por esportes e adoro jogos de tabuleiro
+- 🎾 Curiosidades: Sou ex-jogador de tênis amador, apaixonado por esportes e adoro jogos de tabuleiro
