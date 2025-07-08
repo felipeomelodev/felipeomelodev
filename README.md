@@ -31,7 +31,7 @@
 ---
 
 ### 📚 Formação
-- **Trilha AWS Developer (AWS Certified Developer — Associate)** — Escola da Nuvem — *em andamento*
+- **Trilha AWS Developer (AWS Certified Developer - Associate)** — Escola da Nuvem — *em andamento*
 - **Bootcamp DevOps** — Escola Atlântico Avanti — *em andamento*
 - **Programa AWS re/Start + IA (AWS Certified Cloud Practitioner)** — Escola da Nuvem
 - **Bootcamp Full Stack** — Cubos Academy
