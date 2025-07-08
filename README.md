@@ -1,6 +1,6 @@
 ## 👋 Olá! Sou Felipe Melo
 
-🧑‍💻 Desenvolvedor Full Stack — foco em **Backend**, **Cloud** e **DevOps**  
+🧑‍💻 Software Developer — focado em **Backend**, **Cloud** e **DevOps**  
 🚀 Em formação contínua com **AWS**, **Terraform**, **Docker** e mais
 
 ---
@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**Backend / APIs**  
+**Backend / APIs REST**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
@@ -31,10 +31,10 @@
 ---
 
 ### 📚 Formação
-- **AWS Certified Developer – Associate** *(em andamento)*
-- **AWS re/Start + IA (AWS Certified Cloud Practitioner)** — Escola da Nuvem
-- **DevOps** — Escola Atlântico Avanti
-- **Full Stack** — Cubos Academy
+- **AWS Certified Developer — Associate** — *em andamento*
+- **Bootcamp DevOps** — Escola Atlântico Avanti — *em andamento*
+- **Programa AWS re/Start + IA (AWS Certified Cloud Practitioner)** — Escola da Nuvem
+- **Bootcamp Full Stack** — Cubos Academy
 
 ---
 
