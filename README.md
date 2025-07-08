@@ -44,5 +44,3 @@
 📧 felipe.o.melo@hotmail.com
 
 ---
-
-> **"Continue se esforçando."** — com constância e propósito 🚀
