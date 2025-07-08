@@ -1,7 +1,7 @@
 ## 👋 Olá! Sou Felipe Melo
 
 🧑‍💻 Software Developer — focado em **Backend**, **Cloud** e **DevOps**  
-🚀 Em formação contínua com **AWS**, **Terraform**, **Docker** e mais
+🚀 Em formação contínua com **AWS**, **Terraform**, **Docker** e mais...
 
 ---
 
@@ -31,7 +31,7 @@
 ---
 
 ### 📚 Formação
-- **AWS Certified Developer — Associate** — *em andamento*
+- **Trilha AWS Developer (AWS Certified Developer — Associate)** — Escola da Nuvem — *em andamento*
 - **Bootcamp DevOps** — Escola Atlântico Avanti — *em andamento*
 - **Programa AWS re/Start + IA (AWS Certified Cloud Practitioner)** — Escola da Nuvem
 - **Bootcamp Full Stack** — Cubos Academy
@@ -40,7 +40,9 @@
 
 ### 🌐 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeomelo/)
+
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/felipeomelodev)
+
 📧 felipe.o.melo@hotmail.com
 
 ---
