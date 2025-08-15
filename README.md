@@ -1,10 +1,7 @@
-<h1 align="center">🚀 Felipe Melo</h1>
-<p align="center">
-  <b>Software Developer | Backend | Cloud | DevOps</b><br>
-  Criando soluções escaláveis, seguras e automatizadas.
-</p>
+![🚀 Letreiro animado](https://readme-typing-svg.demolab.com?size=32&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Felipe+Melo;Backend%20%7C%20Cloud%20%7C%20DevOps;Always+learning,+always+building!&repeat=true)
 
----
+
+
 
 ## 🧑‍💻 Sobre mim
 Sou desenvolvedor especializado em **Backend**, **Cloud** e **DevOps**, com experiência no desenvolvimento de APIs REST, automação de infraestrutura e práticas modernas de CI/CD.  
@@ -49,8 +46,8 @@ Atualmente, estou aprofundando meus conhecimentos para a certificação **AWS Ce
 
 ## 📈 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipeomelo&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeomelo&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=felipeomelodev&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeomelodev&layout=compact&theme=tokyonight&cache_seconds=1800" height="165"/>
 </p>
 
 ---
